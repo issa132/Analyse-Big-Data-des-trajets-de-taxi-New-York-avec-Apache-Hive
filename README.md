@@ -1,0 +1,2 @@
+# Analyse-Big-Data-des-trajets-de-taxi-New-York-avec-Apache-Hive
+The goal of this project was to immerse ourselves in the use of the Hadoop ecosystem, particularly HDFS once again to store and manage large amounts of taxi journey data containing thousands of records. We combined our knowledge of basic Hive and SQL concepts to explore, transform and interpret our data while optimizing our queries. 
